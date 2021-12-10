@@ -1,0 +1,18 @@
+.root {
+  display: flex;
+}
+
+.root input,
+.root textareau {
+  background-color: transparent;
+  border: 1px solid #8888;
+}
+
+.root button {
+  background-color: white;
+  border: none;
+}
+
+.root button:hover {
+  cursor: pointer;
+}

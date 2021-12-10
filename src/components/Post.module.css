@@ -1,0 +1,20 @@
+.root {
+  border: 1px solid #8888;
+  text-align: left;
+  padding: 20px 30px;
+  margin: 20px 0px;
+}
+
+.title {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.content {
+  font-size: 0.7em;
+}
+
+.time {
+  font-size: 0.5em;
+  color: #fff8;
+}

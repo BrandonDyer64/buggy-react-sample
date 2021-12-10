@@ -1,0 +1,17 @@
+.root {
+  display: flex;
+}
+
+.root > div {
+  padding: 10px;
+  border-bottom: 2px solid #0000;
+}
+
+.root > div:hover {
+  cursor: pointer;
+  border-bottom-color: #fff4;
+}
+
+.root > div.selected {
+  border-bottom-color: #fff;
+}
